@@ -1,0 +1,122 @@
+/*div{
+text-align:center 
+}
+.name{
+  color:aqua;
+}
+h1{
+  border: 4px solid aqua;
+  padding:50px;
+  margin: 50px ;
+  border-radius: 30px;
+  font-size: 32px;
+  font-weight: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: rgba(205, 39, 202, 0.799);
+  /* letter-spacing:2px;
+   word-spacing: 5px;
+   line-height: 50px;
+   width: 50%;
+   height: 50vh;
+   opacity: 0.9;
+   background: url("back/sl_112020_38170_13.jpg");
+
+   
+   
+  
+
+}
+p{
+  border: 4px solid aqua;
+  border-radius: 30px;
+}
+.success{
+  color:aqua;
+}
+.failure{
+  color:aqua;
+}
+body{
+  background-color: paleturquoise
+}
+#para{
+  border: 5px solid  aqua; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:rgba(205, 39, 202, 0.799);
+  color:aqua;
+  padding: 50px;
+  margin: 50px;
+  font-weight: 500;
+  font-size: 32px;
+   background:url("back/sl_112020_38170_13.jpg")
+  
+}
+.App{
+  border: 8px solid purple;
+ /* display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  gap: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+body{
+   background: url("star/night\ time\ starry\ sky\ background\ 0611.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.divone{
+  background-color: rgb(25, 194, 194);
+  border: 5px solid bisque;
+  border-radius: 30px;
+}
+.divtwo{
+  background-color: bisque;
+}
+.divthree{
+  background-color:palegoldenrod ;
+  grid-column: span 2;
+}
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 180px;
+  gap: 15px;
+  background-color: #000;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: #121212;
+  border: 1px solid #222;
+  border-radius: 16px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tall {
+  grid-row: span 2;
+}
+
+.wide {
+  grid-column: span 2;
+}
+
+.big {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.card:nth-child(1) {
+  border-left: 4px solid #00ff9d;
+}
+
+.card:nth-child(4) {
+  border-top: 4px solid #8a2be2;
+}*/

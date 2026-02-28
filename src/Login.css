@@ -1,0 +1,104 @@
+/*.forgot{
+    font-size: 12 px;
+    color:black;
+    text-decoration: none;
+}
+.forgot:hover{
+    color: rgb(0, 187, 255);
+    text-decoration: underline;
+    cursor: crosshair;
+    font-size: 17px;
+} 
+button{
+    color: white;
+    width:20%;
+    border:none;
+    background-color: rgb(102, 109, 193);
+    border-radius: 10px;
+    
+}
+button:hover{
+    background-color: palevioletred;
+    color: blueviolet; 
+}
+.login-card{
+    border: 7px solid rgb(254, 255, 181);
+    
+    width: 30%;
+    height: 70vh;
+    display:flex ;
+    flex-direction: column;
+    justify-content: start;
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    height: 30px;
+    width: 70%;
+    border-radius: 10px;
+}*/
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom,  #764ba2);
+}
+
+.login-card {
+  background: white;
+  padding: 40px;
+  width: 300px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.form-control {
+  display: flex;
+  align-items: center;
+  background: #f1f1f1;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 4px;
+}
+
+.form-control input {
+  border: none;
+  outline: none;
+  background: transparent;
+  margin-left: 10px;
+  width: 100%;
+}
+
+.remember {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.login-btn {
+  width: 100%;
+  padding: 10px;
+  background: #ff4da6;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.login-btn:hover {
+  background: #e60073;
+}
+
+.signup-text {
+  margin-top: 15px;
+  font-size: 14px;
+}
